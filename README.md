@@ -2,9 +2,11 @@
 
 🎓 **Senior at Cornell University's College of Engineering** | Computer Science Major
 
-I'm passionate about AI and building innovative solutions that solve complex real-world problems. Currently exploring the intersection of finance and technology through hands-on experience in quantitative trading and AI system development.
+I'm passionate about AI and building innovative solutions that solve complex real-world problems. Currently exploring the intersection of finance and technology through hands-on experience, and am excited to learn more!
 
-### 🔭 What I'm working on
+I am also currently working on consolidating my personal projects all to this github profile, as I have had multiple profiles in the past and projects that weren't on github.
+
+### 🔭 Projects I have worked on
 - **HumorLLM**: AI-powered humor detection and analysis system
 - Autonomous agentic reasoning systems for data analytics
 - RAG-based AI assistants and knowledge retrieval pipelines
