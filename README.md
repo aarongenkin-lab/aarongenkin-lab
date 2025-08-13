@@ -1,7 +1,9 @@
 ## Hi there 👋 I'm Aaron!
 
-🎓 **Senior at Cornell University's College of Engineering** | Computer Science Major
+🎓 **Senior at Cornell University's College of Engineering** 
 https://www.linkedin.com/in/aaron-genkin/
+| Computer Science Major
+
 I'm passionate about AI and building innovative solutions that solve complex real-world problems. Currently exploring the intersection of finance and technology through hands-on experience, and am excited to learn more!
 
 I am also currently working on consolidating my personal projects all to this github profile, as I have had multiple profiles in the past and projects that weren't on github.
