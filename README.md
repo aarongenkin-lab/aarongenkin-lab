@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Aaron!
 
 **My LinkedIn:** https://www.linkedin.com/in/aaron-genkin/
+
 🎓 **Senior at Cornell University's College of Engineering** | Computer Science Major
 
 I'm passionate about AI and building innovative solutions that solve complex real-world problems. Currently exploring the intersection of finance and technology through hands-on experience, and am excited to learn more!
